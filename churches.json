@@ -1,0 +1,67 @@
+[
+  {
+    "name": "St. Patrick’s Cathedral",
+    "image": "assets/armagh_cathedral2.png",
+    "details": [
+      "**Mass Times**",
+      "Monday to Saturday 10:00 AM",
+      "Saturday 6:30 PM (Vigil), Sunday 11:00 AM, 12.30 PM, 5.30 PM",
+      "",
+      "**Divine Mercy Chaplet for Jubilee of Hope**",
+      "Monday, Wednesday and Friday at 3:00 PM",
+      "",
+      "**Cathedral Gift Shop**",
+      "Open Daily 10:30 AM - 1:30 PM",
+      "",
+      "**Address**",
+      "@@41 Cathedral Road, Armagh, BT61 7QX"
+    ]
+  },
+  {
+    "name": "St. Malachy’s Church",
+    "image": "assets/st_malachys.png",
+    "details": [
+      "**Mass Times**",
+      "Monday, Wednesday, Friday 7:30 PM",
+      "Tuesday to Friday 8:00 AM",
+      "Tuesday and Thursday (Lay Prayer Service) 7:30 PM",
+      "Sunday 8:00 AM, 9.30 AM",
+      "",
+      "**Confessions**",
+      "Saturday 12.00 PM",
+      "Thursday before First Friday 12.00 PM",
+      "",
+      "**Adoration**",
+      "Monday - Friday 8.30 AM - 7.30 PM",
+      "Saturday, Sunday 8.30 AM - 5.00 PM",
+      "",
+      "**Address**",
+      "@@54 Irish Street, Armagh, BT61 7EP"
+    ]
+  },
+  {
+    "name": "Church of the Immaculate Conception",
+    "image": "assets/tullysaran.png",
+    "details": [
+      "**Mass Times**",
+      "Sunday 10.00 AM",
+       "",
+      "**Address**",
+      "@@12 Milltown Road, Dungannon, BT71 7LJ"
+    ]
+  },
+  {
+    "name": "St. Colmcille’s Church",
+    "image": "assets/knockaconey2.png",
+    "details": [
+      "**Mass Times**",
+      "Saturday 6PM",
+      "",
+      "**Divine Mercy Thursday (First Thursday of every month)**",
+      "Confessions 7.00PM, Rosary & Adoration 7.30PM, Mass 8.00PM",
+      "",
+      "**Address**",
+      "@@18 Knockaconey Road, Armagh, BT61 8DU"
+    ]
+  }
+]
