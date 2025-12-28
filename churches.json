@@ -4,12 +4,10 @@
     "image": "assets/armagh_cathedral2.png",
     "details": [
       "**Christmas Mass Times**",
-      "Monday, Tuesday 10:00 AM",
-      "Christmas Vigil 6.30 PM & 11.00 PM",
-      "Christmas Day 11.00 AM & 12.30 PM",
-      "St Stephens Day 10.00 AM",
-      "Saturday 27th - Feast of St John - 10.00 AM & 6.30 PM",
-      "Sunday 28th - Feast of the Holy Innocents - 11.00 AM, 12.30 PM & 5.30 PM",
+      "Monday 29th, Tuesday 30th, Wednesday 31st - 10:00 AM",
+      "Thursday 1st January - 11.00 AM",
+      "Saturday 2nd - 10.00 AM & 6.30 PM",
+      "Sunday 3rd - 11.00 AM, 12.30 PM & 5.30 PM - Closing of the Jubilee Year of Hope",
       "",
       "**Address**",
       "@@41 Cathedral Road, Armagh, BT61 7QX"
@@ -20,11 +18,11 @@
     "image": "assets/st_malachys.png",
     "details": [
       "**Christmas Mass Times**",
-      "Monday 7:30 PM",
-      "Tuesday 8:00 AM, 7.30 PM (Lay Prayer Service)",
-      "Christmas Vigil 8.30 PM",
-      "Christmas Day 8.00 AM & 9.30 AM",
-      "Sunday 28th - Feast of the Holy Innocents - 8:00 AM, 9.30 AM",
+      "Monday 29th - 7:30 PM - Mass of the Angels",
+      "Wednesday 31st - 7.30pm - Mass of Thanksgiving",
+      "Sunday 4th - 8:00 AM, 9.30 AM",
+      "Confessions",
+      "Saturday 3rd - 12 noon",
       "",
       "**Address**",
       "@@54 Irish Street, Armagh, BT61 7EP"
@@ -35,9 +33,7 @@
     "image": "assets/tullysaran.png",
     "details": [
       "**Christmas Mass Times**",
-      "Christmas Vigil 7.30 PM",
-      "Christmas Day 10.00 AM",
-      "Sunday 28th - Feast of the Holy Innocents - 10.00 AM",
+      "Sunday 4th - 10.00 AM",
       "",
       "**Address**",
       "@@12 Milltown Road, Dungannon, BT71 7LJ"
@@ -48,9 +44,7 @@
     "image": "assets/knockaconey2.png",
     "details": [
       "**Christmas Mass Times**",
-      "Christmas Vigil 6.00 PM",
-      "Christmas Day 10.00 AM",
-      "Saturday 27th 6.00 PM (Sunday Vigil)",
+      "Saturday 3rd 6.00 PM (Sunday Vigil)",
       "",
       "**Address**",
       "@@18 Knockaconey Road, Armagh, BT61 8DU"
