@@ -3,11 +3,10 @@
     "name": "St. Patrick’s Cathedral",
     "image": "assets/armagh_cathedral2.png",
     "details": [
-      "**Christmas Mass Times**",
-      "Monday 29th, Tuesday 30th, Wednesday 31st - 10:00 AM",
-      "Thursday 1st January - 11.00 AM",
-      "Saturday 2nd - 10.00 AM & 6.30 PM",
-      "Sunday 3rd - 11.00 AM, 12.30 PM & 5.30 PM - Closing of the Jubilee Year of Hope",
+      "**Mass Times**",
+      "Monday - Saturday - 10:00 AM",
+      "Saturday - 6.30 PM (Sunday Vigil)",
+      "Sunday - 11.00 AM, 12.30 PM & 5.30 PM",
       "",
       "**Address**",
       "@@41 Cathedral Road, Armagh, BT61 7QX"
@@ -17,12 +16,14 @@
     "name": "St. Malachy’s Church",
     "image": "assets/st_malachys.png",
     "details": [
-      "**Christmas Mass Times**",
-      "Monday 29th - 7:30 PM - Mass of the Angels",
-      "Wednesday 31st - 7.30pm - Mass of Thanksgiving",
-      "Sunday 4th - 8:00 AM, 9.30 AM",
+      "**Mass Times**",
+      "Tuesday - Friday - 8.00 AM",
+      "Tuesday 6th - Feast of the Epiphany - 7.30 PM",
+      "Mon, Weds, Fri - 7.30 PM",
+      "Thurday - Lay Prayer Service - 7.30 PM",
+      "Sunday - 8:00 AM, 9.30 AM",
       "**Confessions**",
-      "Saturday 3rd - 12 noon",
+      "Saturday - 12 noon",
       "",
       "**Address**",
       "@@54 Irish Street, Armagh, BT61 7EP"
@@ -32,8 +33,9 @@
     "name": "Church of the Immaculate Conception",
     "image": "assets/tullysaran.png",
     "details": [
-      "**Christmas Mass Times**",
-      "Sunday 4th - 10.00 AM",
+      "**Mass Times**",
+      "Sunday - 10.00 AM",
+      "Tuesday 6th - Feast of the Epiphany - 10.00 AM",
       "",
       "**Address**",
       "@@12 Milltown Road, Dungannon, BT71 7LJ"
@@ -43,8 +45,10 @@
     "name": "St. Colmcille’s Church",
     "image": "assets/knockaconey2.png",
     "details": [
-      "**Christmas Mass Times**",
-      "Saturday 3rd 6.00 PM (Sunday Vigil)",
+      "**Mass Times**",
+      "Saturday 6.00 PM (Sunday Vigil)",
+      "Tuesday 6th - Feast of the Epiphany - 6.00 PM",
+      "Thursday 8th - Divine Mercy Mass with Confessions and Chaplet from 7.00 PM",
       "",
       "**Address**",
       "@@18 Knockaconey Road, Armagh, BT61 8DU"
