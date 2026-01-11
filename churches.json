@@ -1,6 +1,7 @@
 [
   {
     "name": "St. Patrick’s Cathedral",
+    "activation_date": "12/01/26",
     "image": "assets/armagh_cathedral2.png",
     "details": [
       "**Mass Times**",
@@ -18,9 +19,9 @@
     "details": [
       "**Mass Times**",
       "Tuesday - Friday - 8.00 AM",
-      "Tuesday 6th - Feast of the Epiphany - 7.30 PM",
       "Mon, Weds, Fri - 7.30 PM",
-      "Thurday - Lay Prayer Service - 7.30 PM",
+      "Tues, Thurs - Prayer Service - 7.30 PM",
+      "Saturday 17th - Irish Mass - 4.00 PM",
       "Sunday - 8:00 AM, 9.30 AM",
       "**Confessions**",
       "Saturday - 12 noon",
@@ -35,7 +36,6 @@
     "details": [
       "**Mass Times**",
       "Sunday - 10.00 AM",
-      "Tuesday 6th - Feast of the Epiphany - 10.00 AM",
       "",
       "**Address**",
       "@@12 Milltown Road, Dungannon, BT71 7LJ"
@@ -47,8 +47,6 @@
     "details": [
       "**Mass Times**",
       "Saturday 6.00 PM (Sunday Vigil)",
-      "Tuesday 6th - Feast of the Epiphany - 6.00 PM",
-      "Thursday 8th - Divine Mercy Mass with Confessions and Chaplet from 7.00 PM",
       "",
       "**Address**",
       "@@18 Knockaconey Road, Armagh, BT61 8DU"
