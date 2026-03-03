@@ -8,6 +8,8 @@
       "Divine Mercy Hour - Mon, Wed, Fri - 3.00 PM",
       "Saturday - 6.30 PM (Sunday Vigil)",
       "Sunday - 11.00 AM, 12.30 PM & 5.30 PM",
+      "**Confessions**",
+      "Friday after 10.00 AM Mass",
       "",
       "**Address**",
       "@@41 Cathedral Road, Armagh, BT61 7QX"
@@ -17,14 +19,13 @@
     "name": "St. Malachy’s Church",
     "image": "assets/st_malachys.png",
     "details": [
-      "**Lenten Mass Times**",
+      "**Mass Times**",
       "Monday - Friday - 7.00 AM, 1.00 PM",
       "Mon, Weds, Fri - 7.30 PM",
       "Tues, Thurs - Prayer Service - 7.30 PM",
       "Sunday - 8:00 AM, 9.30 AM",
-      "Irish Mass - Sat 21st @ 4.00 PM",
       "**Confessions**",
-      "Saturday - 12 noon",
+      "Thursday, Saturday - 12 noon",
       "",
       "**Address**",
       "@@54 Irish Street, Armagh, BT61 7EP"
@@ -47,6 +48,7 @@
     "details": [
       "**Mass Times**",
       "Saturday 6.00 PM (Sunday Vigil)",
+      "Divine Mercy Thursday Confessions @ 7.00 PM followed by Mass",
       "",
       "**Address**",
       "@@18 Knockaconey Road, Armagh, BT61 8DU"
