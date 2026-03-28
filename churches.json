@@ -36,6 +36,8 @@
       "Mon, Weds, Fri - 7.30 PM",
       "Tues, Thurs - Prayer Service - 7.30 PM",
       "Sunday - 8:00 AM, 9.30 AM",
+      "**Confessions**",
+      "Saturday - 12 noon",
       "**Holy Week**",
       "Mass - Mon to Wed - 7.00 AM",
       "Novena Mass - Monday - 7.30 PM",
@@ -48,8 +50,6 @@
       "Prayer around the Cross - 9.00 PM",
       "**Easter Sunday**",
       "Mass - 8.00 AM & 9.30 PM",
-      "**Confessions**",
-      "Saturday - 12 noon",
       "",
       "**Address**",
       "@@54 Irish Street, Armagh, BT61 7EP"
@@ -81,6 +81,7 @@
     "details": [
       "**Mass Times**",
       "Saturday 6.00 PM (Sunday Vigil)",
+      "",
       "**Holy Week**",
       "",
       "**Holy Thursday**",
